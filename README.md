@@ -125,4 +125,4 @@ Efficient and secure storage of:
 
 1. Clone the Repository:
    ```bash
-   git clone https://github.com/your-username/online-learning-portal.git
+   git clone https://github.com/Giri2602/online-learning-portal.git
